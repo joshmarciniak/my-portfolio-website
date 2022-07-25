@@ -1,0 +1,11 @@
+{
+  "name": "my-portfolio-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joshmarciniak/my-portfolio-website.git",
+  "author": "Josh Marciniak <jl.marciniak@comcast.net>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
