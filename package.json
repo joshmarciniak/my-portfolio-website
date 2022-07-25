@@ -6,6 +6,7 @@
   "author": "Josh Marciniak <jl.marciniak@comcast.net>",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "three": "^0.142.0"
   }
 }
